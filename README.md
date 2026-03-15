@@ -63,6 +63,8 @@
 ├── 🐍 Python — scripting & problem solving
 ├── 🌐 Full-stack web development (PHP + JS)
 └── 🔗 Networking basics — TCP/IP, HTTP, sockets
+```
+```c
 /* About me in C */
 #include <stdio.h>
 
@@ -77,3 +79,4 @@ int main() {
     printf("Fuel: %d coffees ☕\n", coffees);
     return 0;
 }
+```
