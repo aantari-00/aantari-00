@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aantari&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aantari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantari&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 </p>
 
 <p align="center">
@@ -64,6 +64,7 @@
 ├── 🌐 Full-stack web development (PHP + JS)
 └── 🔗 Networking basics — TCP/IP, HTTP, sockets
 ```
+
 ```c
 /* About me in C */
 #include <stdio.h>
@@ -80,3 +81,21 @@ int main() {
     return 0;
 }
 ```
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/aantari">
+    <img src="https://img.shields.io/badge/GitHub-aantari-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aantari&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+<p align="center"><i>"The best way to learn is to build."</i></p>
