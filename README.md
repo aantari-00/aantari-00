@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Amina 👋</h1>
 <h3 align="center">Student @ 1337 Coding School · Passionate about Programming & Problem Solving</h3>
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -11,7 +15,7 @@
 - 💻 Love building clean and functional web projects
 - 📚 Always learning — one commit at a time
 
-<br/>
+---
 
 ## 🛠️ Skills
 
@@ -37,7 +41,7 @@
 ![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-005C99?style=for-the-badge)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
@@ -50,7 +54,7 @@
   <img src="https://streak-stats.demolab.com?user=aantari&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-<br/>
+---
 
 ## 🧠 Current Focus
 
@@ -59,13 +63,6 @@
 ├── 🐍 Python — scripting & problem solving
 ├── 🌐 Full-stack web development (PHP + JS)
 └── 🔗 Networking basics — TCP/IP, HTTP, sockets
-```
-
-<br/>
-
-## 💬 A Bit More
-
-```c
 /* About me in C */
 #include <stdio.h>
 
@@ -80,22 +77,3 @@ int main() {
     printf("Fuel: %d coffees ☕\n", coffees);
     return 0;
 }
-```
-
-<br/>
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/aantari">
-    <img src="https://img.shields.io/badge/GitHub-aantari-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aantari&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
-<p align="center"><i>"The best way to learn is to build."</i></p>
